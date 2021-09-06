@@ -11,4 +11,4 @@ For thoes who is contributing in my projects/works and those who will contribute
 
 
 
-I'll in your care
+I'll be in your care
