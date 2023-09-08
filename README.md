@@ -1,5 +1,5 @@
 Hi, I’m **@Hriitz**
-This is my github profile.I am interested in problem solving, programming, AI/ML and IOT.
+This is my github profile.I am interested in problem solving, programming, AI/ML and developing backend technologies 
 
 
 
