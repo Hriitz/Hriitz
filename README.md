@@ -1,4 +1,4 @@
-**# 💫 About Me:
+# 💫 About Me:
 Hello World! I'm Hritik Singh, an aspiring software developer eager to make a mark in the world of technology. I am a passionate software developer with a knack for turning ideas into applications
 
 ## 🌐 Socials:
