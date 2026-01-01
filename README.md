@@ -1,17 +1,12 @@
 # 👋 Hi, I'm Hritik Singh
 
-<div align="center">
-  
 ### 🚀 Software Engineer | FinTech | Full-Stack | Platform Engineering  
-
 **Building scalable FinTech platforms & backend systems**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hritik-singh-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hriitz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hriitz_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hritik3447@gmail.com)
-
-</div>
 
 ---
 
@@ -79,53 +74,37 @@ Currently working as a **Founding / Platform Engineer**, building **production-g
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Hritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hritik3447&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hritik3447&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=hritik3447&theme=radical)
 
-<img height="180em" src="https://streak-stats.demolab.com?user=hritik3447&theme=radical" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritik3447&layout=compact&theme=radical&langs_count=8" />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hritik3447&layout=compact&theme=radical&langs_count=8)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hritik3447&theme=radical&margin-w=10" />
-
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hritik3447&theme=radical&margin-w=10)
 
 ---
 
 ## 📈 Key Achievements
 
-- 🏅 **Smart India Hackathon 2022** – Grand Finalist  
-  - Led development of AI-driven pronunciation correction system  
+- 🏅 **Smart India Hackathon 2022 – Grand Finalist**  
+  - Led development of an AI-driven pronunciation correction system  
   - Ministry of Defence problem statement  
 
 ---
 
 ## 📬 Get In Touch
 
-<div align="center">
-
 💼 Open to collaboration in **FinTech**, **Backend Engineering**, and **Platform Development**
 
 📧 Email: [hritik3447@gmail.com](mailto:hritik3447@gmail.com)  
-🌐 Portfolio: [https://hritik-singh-portfolio.vercel.app](https://hritik-singh-portfolio.vercel.app)
-
-</div>
+🌐 Portfolio: https://hritik-singh-portfolio.vercel.app  
 
 ---
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=hritik3447&style=flat-square&color=blue)
 
-<img src="https://komarev.com/ghpvc/?username=hritik3447&style=flat-square&color=blue" />
-
-**Thanks for visiting!** ⭐
-
-</div>
+⭐ **Thanks for visiting!**
