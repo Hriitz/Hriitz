@@ -1,8 +1,8 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                       ANIMATED HEADER BANNER                            -->
+<!--                              HEADER BANNER                               -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,33:89b4fa,66:b4befe,100:f5c2e7&height=250&section=header&text=Hritik%20Singh&fontColor=cdd6f4&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Founding%20Engineer%20%E2%80%A2%20FinTech%20%E2%80%A2%20Platform%20Builder&descSize=20&descAlignY=58&descAlign=50" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,33:89b4fa,66:b4befe,100:f5c2e7&height=220&section=header&text=Hritik%20Singh&fontColor=cdd6f4&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Backend%20%E2%80%A2%20Platform%20%E2%80%A2%20Distributed%20Systems&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="header banner"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!--                            TYPING ANIMATION                              -->
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=F5C2E7&center=true&vCenter=true&width=720&height=80&lines=Founding+Engineer+%40+Spring+Street;Platform+Engineer+%40+Wright+Research;FinTech+%E2%80%A2+Backend+Scalability+%E2%80%A2+Cloud-Native;0+%E2%86%92+1+builder+%E2%80%A2+design-first+APIs+%E2%80%A2+exactly-once+systems)](https://hritik-singh-portfolio.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=F5C2E7&center=true&vCenter=true&width=720&height=70&lines=Backend+%2F+Platform+Engineer+%E2%80%94+FinTech;Distributed+systems+%26+payments+infrastructure;Agentic+coding+with+Claude+Code+%26+multi-LLM+pipelines)](https://hritik-singh-portfolio.vercel.app/)
 
 </div>
 
@@ -24,123 +24,72 @@
 <a href="https://linkedin.com/in/hriitz"><img src="https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" alt="LinkedIn"/></a>
 <a href="https://twitter.com/hriitz_"><img src="https://img.shields.io/badge/X-1e1e2e?style=for-the-badge&logo=x&logoColor=cdd6f4" alt="X"/></a>
 <a href="mailto:hritik3447@gmail.com"><img src="https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=1e1e2e" alt="Email"/></a>
-<a href="https://springstreet.in"><img src="https://img.shields.io/badge/Spring%20Street-A6E3A1?style=for-the-badge&logo=leaflet&logoColor=1e1e2e" alt="Spring Street"/></a>
 
 </div>
 
 <br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                                ABOUT ME                                  -->
+<!--                                  ABOUT                                   -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 👋 About Me
+## About
 
-I'm a **Founding Engineer at [Spring Street](https://springstreet.in)** and a **Platform Engineer at Wright Research** — building production-grade FinTech systems from **0 → 1** and operating them at scale on GCP / GKE.
+Backend / platform engineer based in India. I build FinTech systems from 0 → 1 and run them at scale on GCP / GKE. Mostly Go and Python, sometimes TypeScript. The work I find interesting tends to live where distributed systems meet money — payments, idempotent webhooks, real-time streams, and the observability that keeps all of it honest. Bonus points if it reconciles down to the paisa.
 
-> 🚀 **Currently shipping** — exactly-once payment processing, idempotent webhook delivery (HMAC‑SHA256), and AES‑256‑GCM token orchestration for a regulated financial product.
+Lately I've been spending a lot of time on agentic coding. Claude Code is my daily driver, and I run multi-LLM pipelines in production — Haiku for cheap enrichment, Sonnet for reasoning. Globradar is where most of that work is happening right now.
 
-**What I care about**
+Outside the day job, I'm building **Njord** — because every fintech engineer eventually builds their own personal-finance app — and **Globradar**, because Bloomberg-grade market alerts without the Bloomberg bill seemed worth a shot.
 
-- 🧱 **Design-first APIs** that are easy to reason about and hard to break
-- 🛡️ **Financial-grade reliability** — exactly-once outbox, idempotency keys, automated reconciliation
-- ⚡ **Sub-second user experiences** through caching, query design, and graceful degradation
-- 🔐 **Security & compliance** — CERT-In, OWASP, AES-256-GCM, RBAC
-- 🤖 **Force-multiplier engineering** with AI tooling — Claude Code, Cursor, OpenAI Codex
+I tend to optimize for:
+
+- APIs that are easy to reason about and hard to break
+- Idempotency and graceful degradation over heroic retries
+- Observability you regret not having — usually right around 2 AM
+- AI tooling as leverage, not magic
 
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                            FEATURED EXPERIENCE                           -->
+<!--                              WHAT I WORK ON                              -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 💼 Featured Experience
-
-<details open>
-<summary><strong>🌱 Spring Street — Founding Engineer</strong>&nbsp;·&nbsp;<em>Nov 2025 – Present · Remote</em></summary>
-<br/>
-
-- **0 → 1 ownership** — Architected and built the entire full-stack platform (React/TypeScript, Go, PostgreSQL) as the **sole founding engineer**; delivered the MVP and grew the team by hiring and onboarding engineers.
-- **Backend at scale** — Designed a design-first backend with **100+ REST APIs**, real-time **WebSocket** streams, and **35+ relational tables**; integrated brokerage and KYC providers with **AES‑256‑GCM** encryption and secure token orchestration.
-- **Financial-grade reliability** — Built **exactly-once processing** (outbox pattern), **idempotent webhook systems** (HMAC‑SHA256), Redis + in-memory caching with graceful degradation, and automated reconciliation + alerting for transaction failures.
-- **Cloud & DevOps ownership** — Provisioned and operated **GKE clusters** (prod + staging) on GCP; implemented zero-touch CI/CD (GitHub Actions), observability (Prometheus + Grafana), and structured logging with retention policies.
-- **Admin & operations tooling** — Built an internal dashboard with **20+ privileged APIs**, audit logs for all state changes, and tooling for API replay and manual state overrides to resolve production issues.
-- **User lifecycle systems** — JWT + OAuth auth, multi-step KYC onboarding, multi-rail funding flows with **50+ mapped error states**, transactional comms, and a zero-downtime analytics migration.
-- **AI-augmented engineering** — Standardized dev workflows using **Claude Code, Cursor, and OpenAI Codex**; introduced shared conventions, governance, and automated QA / review pipelines that cut PR cycle time.
-- **Engineering foundation** — Authored architecture docs, API references, schema design, runbooks, and established a governance model prioritizing **security → correctness → simplicity** across the team.
-
-<sub>**Stack:** `Go` · `Goa` · `PostgreSQL` · `GORM` · `React` · `TypeScript` · `JWT/OAuth` · `RBAC` · `GKE` · `Docker` · `Prometheus` · `Grafana`</sub>
-
-</details>
-
-<details>
-<summary><strong>📈 Wright Research — Platform Engineer</strong>&nbsp;·&nbsp;<em>Dec 2023 – Present · Remote</em></summary>
-<br/>
-
-- Architected backend serving **25,000+ users** in a regulated financial product.
-- Reduced API latency from **2–3s → <500ms** through query optimization, indexing, and Redis caching.
-- Improved **cache hit rate to 70–85%**, achieving **99.9% uptime** on production GCP infrastructure.
-- Delivered **60–80% faster** dashboard performance via database optimization.
-- Hardened the platform for **CERT-In compliance** and **OWASP** top-10 mitigation.
-- Mentored **5+ junior engineers and interns** across full-stack and platform work.
-
-<sub>**Stack:** `Django` · `DRF` · `Redis` · `PostgreSQL` · `React 18` · `TypeScript` · `GCP` · `Nginx` · `Gunicorn` · `Cloud CDN`</sub>
-
-</details>
-
-<details>
-<summary><strong>🛠️ Floworx — Junior Software Engineer</strong>&nbsp;·&nbsp;<em>Sept – Nov 2023 · Bengaluru</em></summary>
-<br/>
-
-- Developed backend APIs in **Node.js + Express + TypeScript** for an early-stage product team.
-- First production exposure to API design, error handling, and incident response.
-
-</details>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                             FEATURED PROJECTS                            -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 🚀 Featured Projects
+## What I work on
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🌱 Spring Street
-**Live →** [springstreet.in](https://springstreet.in)
+### FinTech & payments infrastructure
+Backend systems for financial workflows — idempotent webhooks, exactly-once processing, encrypted token orchestration, automated reconciliation, and structured failure handling.
 
-A 0 → 1 fintech platform: design-first APIs, real-time streams, exactly-once payment processing, GKE-native deployment, zero-touch CI/CD.
-
-`Go` · `Goa` · `PostgreSQL` · `React` · `JWT/RBAC` · `GKE` · `Prometheus`
+`Go` · `Goa` · `PostgreSQL` · `Redis` · `KYC` · `OAuth`
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 📈 Wright Research Platform
-Production fintech serving **25k+ users** with **<500ms** APIs, **99.9%** uptime, and full CERT-In hardening.
+### Production REST + real-time backends
+Design-first APIs with comprehensive error states, observability built in, sub-500ms p99, and graceful degradation. WebSocket-driven state propagation when latency matters.
 
-`Django` · `DRF` · `Redis` · `PostgreSQL` · `React 18` · `GCP` · `Nginx`
+`Go` · `Gin` · `FastAPI` · `WebSocket` · `Redis` · `JWT` · `RBAC`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### ⚡ High-Throughput E-commerce API
-REST API with JWT auth, RBAC, and PostgreSQL persistence — engineered for sustained traffic with consistent sub-200ms latency.
+### Cloud-native ops & compliance
+Multi-environment GKE, zero-touch CI/CD with GitHub Actions, Prometheus + Grafana, structured logging, OWASP / CERT-In hardening, and encryption at rest.
 
-`Go` · `Gin` · `PostgreSQL` · `JWT/RBAC`
+`GCP` · `GKE` · `Docker` · `Prometheus` · `Grafana` · `OAuth2` · `RBAC`
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🏅 Smart India Hackathon 2022 — Grand Finalist
-AI-driven pronunciation correction system built for the **Ministry of Defence** problem statement.
+### Agentic coding & multi-LLM systems
+Claude Code with repo-scoped `CLAUDE.md` and `.claudeignore` as a daily workflow. Multi-LLM pipelines in production — cheap-tier enrichment + premium-tier reasoning. MCP servers, automated review gates, governance.
 
-`Python` · `Speech Processing` · `ML`
+`Claude Code` · `Claude Haiku/Sonnet` · `Cursor` · `OpenAI Codex` · `MCP`
 
 </td>
 </tr>
@@ -149,10 +98,61 @@ AI-driven pronunciation correction system built for the **Ministry of Defence** 
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                                TECH STACK                                -->
+<!--                                 PROJECTS                                 -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🛠️ Tech Stack
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Njord
+Personal finance dashboard for India — web SPA + Telegram bot, single-user, owner-gated.
+
+A Go backend with the React/Vite frontend embedded into the binary. CRED-inspired "Obsidian Depth" UI on shadcn/ui + Tailwind. Hexagonal architecture with a pluggable `BankParser` interface — Axis + SBI today; new bank = new file, no edits to existing code. SHA-256-keyed idempotent imports — same CSV or forwarded SMS is a no-op. SQLite + FTS5 for full-text chat search. Cron-driven weekly digests, REST API for the dashboard, Telegram bot adapter, and an integrated Claude chat surface.
+
+`Go 1.22` · `React + Vite` · `shadcn/ui` · `Tailwind` · `SQLite + FTS5` · `Telegram` · `Claude`
+
+</td>
+<td width="50%" valign="top">
+
+### Globradar
+AI-powered market intelligence — detects market-moving events across 9 data sources (Yahoo, EDGAR, GDELT, NewsAPI×3, Massive, FRED, Reddit) and generates trading signals for Indian (NSE/BSE) and US markets.
+
+Two-tier Claude pipeline — Haiku for high-volume event enrichment, Sonnet for reasoning over signal candidates. Async collection via APScheduler, dedup, XGBoost predictor, FinBERT + spaCy NLP fallbacks, Telegram alerts. FastAPI API + Streamlit dashboard. 111 pytest tests, ruff + pyright, `uv`-managed deps. Currently shipping Phase 4 (Signal Engine) of a 7-phase roadmap.
+
+`Python 3.11` · `Claude Haiku + Sonnet` · `XGBoost` · `FinBERT` · `FastAPI` · `Streamlit` · `APScheduler` · `SQLite` · `uv`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Smart India Hackathon 2022 — Grand Finalist
+AI-driven pronunciation correction system built for the Ministry of Defence problem statement.
+
+`Python` · `Speech Processing` · `Deep Learning`
+
+</td>
+<td width="50%" valign="top">
+
+### Personal Portfolio
+Modern dev portfolio — Next.js 14 + React 18 + TypeScript with Framer Motion transitions, next-themes dark mode, and Resend for the contact form. Vercel Analytics + Speed Insights. Live at [hritik-singh-portfolio.vercel.app](https://hritik-singh-portfolio.vercel.app/).
+
+`Next.js 14` · `TypeScript` · `Tailwind` · `Framer Motion` · `Resend` · `Vercel`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                                  STACK                                   -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## Stack
 
 <table>
 <tr>
@@ -168,7 +168,7 @@ AI-driven pronunciation correction system built for the **Ministry of Defence** 
 <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,vite&theme=dark" alt="frontend"/></a></td>
 </tr>
 <tr>
-<td valign="middle"><strong>Databases</strong></td>
+<td valign="middle"><strong>Data</strong></td>
 <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&theme=dark" alt="databases"/></a></td>
 </tr>
 <tr>
@@ -184,14 +184,14 @@ AI-driven pronunciation correction system built for the **Ministry of Defence** 
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                            MERMAID SKILLS MAP                            -->
+<!--                                 SKILLS MAP                               -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🧠 Skills Map
+## Skills
 
 ```mermaid
 mindmap
-  root((Hritik))
+  root((Hriitz))
     Languages
       Go
       Python
@@ -208,32 +208,34 @@ mindmap
       PostgreSQL
       Redis
       MongoDB
-      GORM
+      SQLite
     Cloud
       GCP / GKE
       AWS
       Docker
       Kubernetes
     Reliability
-      Exactly-once outbox
-      Idempotent webhooks
-      HMAC-SHA256
-      AES-256-GCM
+      Distributed systems
+      Idempotency
+      Caching
       Observability
-    Practice
-      Design-first APIs
-      OWASP / CERT-In
-      Mentorship
-      AI-augmented dev
+      Security
+    AI & Agents
+      Claude Code
+      Claude Haiku
+      Claude Sonnet
+      MCP servers
+      Multi-LLM pipelines
+      Agentic workflows
 ```
 
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                            GITHUB DASHBOARD                              -->
+<!--                                  GITHUB                                  -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 📊 GitHub Dashboard
+## GitHub
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hriitz&theme=tokyonight" alt="profile-details" width="98%"/>
@@ -249,25 +251,25 @@ mindmap
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hriitz&theme=tokyonight&utcOffset=5.5" alt="productive-time" width="48%"/>
 </div>
 
-### 🔥 Streak
+### Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Hriitz&background=1e1e2e&border=313244&stroke=cba6f7&ring=f5c2e7&fire=f9e2af&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=f5c2e7&sideLabels=cdd6f4&dates=a6adc8&hide_border=true" alt="streak"/>
 </div>
 
-### 📈 Activity Graph
+### Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hriitz&bg_color=1e1e2e&color=cdd6f4&line=f5c2e7&point=b4befe&area=true&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20Last%2031%20Days&radius=8" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hriitz&bg_color=1e1e2e&color=cdd6f4&line=f5c2e7&point=b4befe&area=true&hide_border=true&custom_title=Contribution%20graph%20%E2%80%94%20last%2031%20days&radius=8" alt="activity"/>
 </div>
 
-### 🧊 Isometric Contributions
+### Contributions (3D)
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions"/>
 </div>
 
-### 🐍 Snake Eats Contributions
+### Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hriitz/Hriitz/output/github-snake-dark.svg"/>
@@ -278,10 +280,10 @@ mindmap
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                                  TROPHIES                                -->
+<!--                                 TROPHIES                                 -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -292,25 +294,23 @@ mindmap
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                                  WAKATIME                                -->
+<!--                              THIS WEEK'S WORK                            -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## ⏱️ Coding Hours · This Week
+## This week's coding
 
 <!--START_SECTION:waka-->
 ```txt
-🚧 Setting up — WakaTime stats will populate here once the workflow runs
-   (add WAKATIME_API_KEY repo secret + dispatch .github/workflows/wakatime.yml)
+Setting up — WakaTime stats will populate here once the workflow runs.
+(Add WAKATIME_API_KEY repo secret + dispatch .github/workflows/wakatime.yml.)
 ```
 <!--END_SECTION:waka-->
 
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                                DEV QUOTE                                 -->
+<!--                                  QUOTE                                   -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 💬 Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="dev quote"/>
@@ -319,32 +319,27 @@ mindmap
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                              KEY HIGHLIGHTS                              -->
+<!--                              A FEW THINGS                                -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🎯 Key Highlights
+## A few things I've shipped
 
-| Metric | Result |
-|---|---|
-| API latency reduced (Wright Research) | **2–3s → <500ms** |
-| Cache hit rate | **70–85%** |
-| Production uptime | **99.9%** |
-| Dashboard performance gain | **60–80%** faster |
-| REST APIs designed (Spring Street) | **100+** |
-| Relational tables (Spring Street) | **35+** |
-| Mapped funding-flow error states | **50+** |
-| Junior engineers mentored | **5+** |
-| Smart India Hackathon 2022 | **Grand Finalist** |
+- API latency in production fintech: **2–3s → <500ms**
+- Cache hit rate engineered: **70–85%**
+- Production uptime achieved: **99.9%**
+- Performance gain via DB tuning: **60–80%** faster
+- Junior engineers mentored: **5+**
+- Smart India Hackathon 2022: **Grand Finalist**
 
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                                   CONNECT                                -->
+<!--                                GET IN TOUCH                              -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 📬 Connect
+## Get in touch
 
-**Open to** — collaboration in **FinTech**, **payments infra**, **0 → 1 platform builds**, and **production reliability** engagements.
+Open to collaboration in FinTech, payments infrastructure, 0 → 1 platform builds, and production reliability work.
 
 <div align="center">
 
@@ -362,7 +357,7 @@ mindmap
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                            ANIMATED FOOTER WAVE                          -->
+<!--                                   FOOTER                                 -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c2e7,33:b4befe,66:89b4fa,100:1e1e2e&height=120&section=footer" width="100%" alt="footer wave"/>
