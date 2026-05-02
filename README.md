@@ -37,7 +37,7 @@
 
 Backend/platform engineer in India. I build fintech systems 0→1 and run them at scale (GCP/GKE). Mostly Go, Python; some TypeScript.
 
-I like problems where distributed systems meet money — payments, webhooks, real-time flows — and making sure everything reconciles down to the paisa.
+I like problems where distributed systems meet money; payments, webhooks, real-time flows and making sure everything reconciles down to the paisa.
 
 Lately: shipping agentic pipelines in prod (Haiku for cheap work, Sonnet for reasoning). Claude Code is my daily driver.
 
