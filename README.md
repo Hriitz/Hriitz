@@ -116,9 +116,9 @@ Personal finance dashboard for India — a side project. Web app + Telegram comp
 <td width="50%" valign="top">
 
 ### Globradar
-AI-powered market intelligence — a side project. Surfaces market-moving events from public data and generates trading signals for Indian (NSE/BSE) and US markets. Multi-LLM pipeline for enrichment and reasoning, plus ML-driven signal scoring.
+AI-powered market intelligence — Indian (NSE/BSE) and US markets. Surfaces market-moving events from public data, with AI-driven enrichment and signal scoring.
 
-`Python` · `Claude` · `XGBoost` · `FastAPI` · `Streamlit`
+`Python` · `Claude` · `XGBoost` · `FastAPI`
 
 </td>
 </tr>
