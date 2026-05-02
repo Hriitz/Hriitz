@@ -35,18 +35,18 @@
 
 ## About
 
-Backend / platform engineer based in India. I build FinTech systems from 0 → 1 and run them at scale on GCP / GKE. Mostly Go and Python, sometimes TypeScript. The work I find interesting tends to live where distributed systems meet money — payments, idempotent webhooks, real-time streams, and the observability that keeps all of it honest. Bonus points if it reconciles down to the paisa.
+Backend/platform engineer in India. I build fintech systems 0→1 and run them at scale (GCP/GKE). Mostly Go, Python; some TypeScript.
 
-Lately I've been spending a lot of time on agentic coding. Claude Code is my daily driver, and I run multi-LLM pipelines in production — Haiku for cheap enrichment, Sonnet for reasoning. Globradar is where most of that work is happening right now.
+I like problems where distributed systems meet money — payments, webhooks, real-time flows — and making sure everything reconciles down to the paisa.
 
-Outside the day job, I'm building **Njord** — because every fintech engineer eventually builds their own personal-finance app — and **Globradar**, because Bloomberg-grade market alerts without the Bloomberg bill seemed worth a shot.
+Lately: shipping agentic pipelines in prod (Haiku for cheap work, Sonnet for reasoning). Claude Code is my daily driver.
 
-I tend to optimize for:
+Building:
 
-- APIs that are easy to reason about and hard to break
-- Idempotency and graceful degradation over heroic retries
-- Observability you regret not having — usually right around 2 AM
-- AI tooling as leverage, not magic
+Njord — personal finance, done right
+Globradar — market alerts without the Bloomberg tax
+
+Bias: simple APIs, idempotency > retries, logs you’ll thank at 2 AM.
 
 ---
 
