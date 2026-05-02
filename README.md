@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=F5C2E7&center=true&vCenter=true&width=720&height=70&lines=Backend+%2F+Platform+Engineer+%E2%80%94+FinTech;Distributed+systems+%26+payments+infrastructure;Agentic+coding+with+Claude+Code+%26+multi-LLM+pipelines)](https://hritik-singh-portfolio.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=F5C2E7&center=true&vCenter=true&width=720&height=70&lines=Backend+%2F+Platform+Engineer+%E2%80%94+FinTech;Distributed+systems+%26+payments;Agentic+coding+%26+AI+tooling)](https://hritik-singh-portfolio.vercel.app/)
 
 </div>
 
@@ -35,18 +35,18 @@
 
 ## About
 
-Backend/platform engineer in India. I build fintech systems 0→1 and run them at scale (GCP/GKE). Mostly Go, Python; some TypeScript.
+Backend/platform engineer in India. I build fintech systems 0→1 and run them at scale. Mostly Go and Python; some TypeScript.
 
-I like problems where distributed systems meet money; payments, webhooks, real-time flows and making sure everything reconciles down to the paisa.
+I like problems where distributed systems meet money — payments, webhooks, real-time flows, and making sure everything reconciles down to the paisa.
 
-Lately: shipping agentic pipelines in prod (Haiku for cheap work, Sonnet for reasoning). Claude Code is my daily driver.
+Lately: a lot of agentic coding. Claude Code is my daily driver.
 
-Building:
+Building on the side:
 
-- Njord — personal finance, done right
-- Globradar — market alerts without the Bloomberg tax
+- **Njord** — personal finance, done right
+- **Globradar** — market alerts without the Bloomberg tax
 
-Bias: simple APIs, idempotency > retries, logs you’ll thank at 2 AM.
+Bias: simple APIs, idempotency > retries, logs you'll thank at 2 AM.
 
 ---
 
@@ -61,17 +61,17 @@ Bias: simple APIs, idempotency > retries, logs you’ll thank at 2 AM.
 <td valign="top" width="50%">
 
 ### FinTech & payments infrastructure
-Backend systems for financial workflows — idempotent webhooks, exactly-once processing, encrypted token orchestration, automated reconciliation, and structured failure handling.
+Idempotent webhooks, exactly-once processing, reconciliation.
 
-`Go` · `Goa` · `PostgreSQL` · `Redis` · `KYC` · `OAuth`
+`Go` · `Goa` · `PostgreSQL` · `Redis`
 
 </td>
 <td valign="top" width="50%">
 
 ### Production REST + real-time backends
-Design-first APIs with comprehensive error states, observability built in, sub-500ms p99, and graceful degradation. WebSocket-driven state propagation when latency matters.
+Design-first APIs, sub-500ms p99, WebSocket state propagation.
 
-`Go` · `Gin` · `FastAPI` · `WebSocket` · `Redis` · `JWT` · `RBAC`
+`Go` · `Gin` · `FastAPI` · `WebSocket`
 
 </td>
 </tr>
@@ -79,17 +79,17 @@ Design-first APIs with comprehensive error states, observability built in, sub-5
 <td valign="top" width="50%">
 
 ### Cloud-native ops & compliance
-Multi-environment GKE, zero-touch CI/CD with GitHub Actions, Prometheus + Grafana, structured logging, OWASP / CERT-In hardening, and encryption at rest.
+GKE, GitHub Actions CI/CD, Prometheus + Grafana, OWASP / CERT-In hardening.
 
-`GCP` · `GKE` · `Docker` · `Prometheus` · `Grafana` · `OAuth2` · `RBAC`
+`GCP` · `GKE` · `Docker` · `Prometheus`
 
 </td>
 <td valign="top" width="50%">
 
-### Agentic coding & multi-LLM systems
-Claude Code with repo-scoped `CLAUDE.md` and `.claudeignore` as a daily workflow. Multi-LLM pipelines in production — cheap-tier enrichment + premium-tier reasoning. MCP servers, automated review gates, governance.
+### Agentic coding
+Claude Code as daily driver. AI agents as a force multiplier.
 
-`Claude Code` · `Claude Haiku/Sonnet` · `Cursor` · `OpenAI Codex` · `MCP`
+`Claude Code` · `Cursor` · `MCP`
 
 </td>
 </tr>
@@ -108,21 +108,17 @@ Claude Code with repo-scoped `CLAUDE.md` and `.claudeignore` as a daily workflow
 <td width="50%" valign="top">
 
 ### Njord
-Personal finance dashboard for India — web SPA + Telegram bot, single-user, owner-gated.
+Personal finance dashboard for India — a side project. Web app + Telegram companion, with multi-bank statement imports, automated categorization, weekly digests, and an integrated AI chat surface.
 
-A Go backend with the React/Vite frontend embedded into the binary. CRED-inspired "Obsidian Depth" UI on shadcn/ui + Tailwind. Hexagonal architecture with a pluggable `BankParser` interface — Axis + SBI today; new bank = new file, no edits to existing code. SHA-256-keyed idempotent imports — same CSV or forwarded SMS is a no-op. SQLite + FTS5 for full-text chat search. Cron-driven weekly digests, REST API for the dashboard, Telegram bot adapter, and an integrated Claude chat surface.
-
-`Go 1.22` · `React + Vite` · `shadcn/ui` · `Tailwind` · `SQLite + FTS5` · `Telegram` · `Claude`
+`Go` · `React` · `SQLite` · `Telegram` · `Claude`
 
 </td>
 <td width="50%" valign="top">
 
 ### Globradar
-AI-powered market intelligence — detects market-moving events across 9 data sources (Yahoo, EDGAR, GDELT, NewsAPI×3, Massive, FRED, Reddit) and generates trading signals for Indian (NSE/BSE) and US markets.
+AI-powered market intelligence — a side project. Surfaces market-moving events from public data and generates trading signals for Indian (NSE/BSE) and US markets. Multi-LLM pipeline for enrichment and reasoning, plus ML-driven signal scoring.
 
-Two-tier Claude pipeline — Haiku for high-volume event enrichment, Sonnet for reasoning over signal candidates. Async collection via APScheduler, dedup, XGBoost predictor, FinBERT + spaCy NLP fallbacks, Telegram alerts. FastAPI API + Streamlit dashboard. 111 pytest tests, ruff + pyright, `uv`-managed deps. Currently shipping Phase 4 (Signal Engine) of a 7-phase roadmap.
-
-`Python 3.11` · `Claude Haiku + Sonnet` · `XGBoost` · `FinBERT` · `FastAPI` · `Streamlit` · `APScheduler` · `SQLite` · `uv`
+`Python` · `Claude` · `XGBoost` · `FastAPI` · `Streamlit`
 
 </td>
 </tr>
@@ -130,17 +126,17 @@ Two-tier Claude pipeline — Haiku for high-volume event enrichment, Sonnet for 
 <td width="50%" valign="top">
 
 ### Smart India Hackathon 2022 — Grand Finalist
-AI-driven pronunciation correction system built for the Ministry of Defence problem statement.
+AI-driven pronunciation correction system, Ministry of Defence problem statement.
 
-`Python` · `Speech Processing` · `Deep Learning`
+`Python` · `Speech` · `Deep Learning`
 
 </td>
 <td width="50%" valign="top">
 
 ### Personal Portfolio
-Modern dev portfolio — Next.js 14 + React 18 + TypeScript with Framer Motion transitions, next-themes dark mode, and Resend for the contact form. Vercel Analytics + Speed Insights. Live at [hritik-singh-portfolio.vercel.app](https://hritik-singh-portfolio.vercel.app/).
+Dev portfolio — Next.js + Framer Motion on Vercel. Live at [hritik-singh-portfolio.vercel.app](https://hritik-singh-portfolio.vercel.app/).
 
-`Next.js 14` · `TypeScript` · `Tailwind` · `Framer Motion` · `Resend` · `Vercel`
+`Next.js` · `TypeScript` · `Tailwind` · `Framer Motion`
 
 </td>
 </tr>
@@ -196,37 +192,24 @@ mindmap
       Go
       Python
       TypeScript
-      Java
-      C++
     Backend
-      Goa & Gin
-      Django + DRF
+      Goa
+      Gin
       FastAPI
-      Spring Boot
-      Node + Express
+      Django
     Data
       PostgreSQL
       Redis
-      MongoDB
       SQLite
     Cloud
-      GCP / GKE
-      AWS
+      GCP
       Docker
       Kubernetes
-    Reliability
+    Practice
       Distributed systems
       Idempotency
-      Caching
       Observability
-      Security
-    AI & Agents
-      Claude Code
-      Claude Haiku
-      Claude Sonnet
-      MCP servers
-      Multi-LLM pipelines
-      Agentic workflows
+      Agentic coding
 ```
 
 ---
@@ -327,12 +310,12 @@ No activity tracked
 
 ## A few things I've shipped
 
-- API latency in production fintech: **2–3s → <500ms**
-- Cache hit rate engineered: **70–85%**
-- Production uptime achieved: **99.9%**
-- Performance gain via DB tuning: **60–80%** faster
-- Junior engineers mentored: **5+**
-- Smart India Hackathon 2022: **Grand Finalist**
+- API latency cut: **2–3s → <500ms**
+- Cache hit rate: **70–85%**
+- Uptime: **99.9%**
+- DB tuning gain: **60–80%** faster
+- Mentored: **5+** engineers
+- SIH 2022: **Grand Finalist**
 
 ---
 
