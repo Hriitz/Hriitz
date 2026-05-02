@@ -249,7 +249,7 @@ mindmap
 ### Contributions (3D)
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3d contributions"/>
 </div>
 
 ### Contribution snake
