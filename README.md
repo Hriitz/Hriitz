@@ -300,10 +300,13 @@ mindmap
 ## This week's coding
 
 <!--START_SECTION:waka-->
+
 ```txt
-Setting up — WakaTime stats will populate here once the workflow runs.
-(Add WAKATIME_API_KEY repo secret + dispatch .github/workflows/wakatime.yml.)
+From: 24 April 2026 - To: 01 May 2026
+
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
