@@ -43,8 +43,8 @@ Lately: shipping agentic pipelines in prod (Haiku for cheap work, Sonnet for rea
 
 Building:
 
-Njord — personal finance, done right
-Globradar — market alerts without the Bloomberg tax
+- Njord — personal finance, done right
+- Globradar — market alerts without the Bloomberg tax
 
 Bias: simple APIs, idempotency > retries, logs you’ll thank at 2 AM.
 
