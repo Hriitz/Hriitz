@@ -312,7 +312,6 @@ No activity tracked
 
 - API latency cut: **2–3s → <500ms**
 - Cache hit rate: **70–85%**
-- Uptime: **99.9%**
 - DB tuning gain: **60–80%** faster
 - Mentored: **5+** engineers
 - SIH 2022: **Grand Finalist**
