@@ -43,8 +43,8 @@ Lately: a lot of agentic coding. Claude Code is my daily driver.
 
 Building on the side:
 
-- **Njord** — personal finance, done right
-- **Globradar** — market alerts without the Bloomberg tax
+- **Njord** :personal finance, done right
+- **Globradar** : market alerts without the Bloomberg tax
 
 Bias: simple APIs, idempotency > retries, logs you'll thank at 2 AM.
 
